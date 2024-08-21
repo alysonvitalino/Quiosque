@@ -1,3 +1,4 @@
+84% de armazenamento usado … Se você atingir o limite, não será possível criar, editar ou fazer upload de arquivos. Aproveite 100 GB de armazenamento por R$ 7,99 R$ 1,99 durante um mês.
 #include<stdio.h>
 #include<stdlib.h>
 #include<locale.h>
@@ -1100,5 +1101,4 @@ if(escolhaingrediente!=0 || escolhaingrediente!=1 || escolhaingrediente!=2 || es
 return 0;
 
 }
-
 
